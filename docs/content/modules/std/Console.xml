@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Article type="code">
+    <Title>Console Class</Title>
+    <Path>std</Path>
+    <Declaration>public static class Console</Declaration>
+    <Info>
+        Utility class for interacting with the console.
+    </Info>
+
+    <TypeMembers>
+        <Method path="modules/std/Console.PrintLine(string)">PrintLine(string)</Method>
+        <Method>Print(string)</Method>
+    </TypeMembers>
+    <Examples>
+        <Example>
+            <Title>Print "Hello, world!" to the console</Title>
+            <Info>
+                The most basic program - printing "Hello, world" to the console.
+            </Info>
+            <Code>std.Console.PrintLine("Hello, world!");</Code>
+        </Example>
+    </Examples>
+</Article>

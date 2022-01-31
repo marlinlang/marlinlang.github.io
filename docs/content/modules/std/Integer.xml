@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Article type="code">
+    <Title>Integer Struct</Title>
+    <Path>std</Path>
+    <Declaration>public struct Integer</Declaration>
+    <Info>
+        Represents a 32-bit whole number.
+    </Info>
+
+    <TypeMembers></TypeMembers>
+    <Examples></Examples>
+</Article>
