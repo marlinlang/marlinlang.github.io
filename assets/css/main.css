@@ -1,11 +1,18 @@
 @font-face {
     font-family: jetbrainsMono;
-    src: url("/assets/fonts/JetBrainsMono-Regular.woff2");
+    src: url("../fonts/JetBrainsMono-Regular.woff2");
 }
 
 body {
     background-color: #0D1317;
     color: white;
+    tab-size: 4;
+}
+
+pre {
+    padding: 10px;
+    background-color: #1c1b1b;
+    border-radius: 5px;
 }
 
 code {
@@ -19,10 +26,6 @@ a {
 
 a:hover {
     color: gray;
-}
-
-.rounded {
-    border-radius: 30px;
 }
 
 .mono {
